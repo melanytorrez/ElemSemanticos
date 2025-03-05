@@ -14,31 +14,31 @@ body {
 }
 #header{
     padding: 15px;
-    background-color: rgba(71,109,147,1);
+    background-color: rgb(7, 199, 224);
     color: white;
     grid-column: 1/4;
 }
 #aside-left{
     grid-column: 1 / 2;
     padding: 15px;
-    background-color: rgba(144,94,65, 1);
+    background-color: rgb(158, 61, 214);
     color: white;
 }
 #aside-rigth{
     grid-column: 3 / 4;
     padding: 15px;
-    background-color: rgba(144,94,65, 1);
+    background-color: rgb(185, 43, 204);
     color: white;
 }
 #main{
     grid-column: 2 / 3;
     padding: 15px;
-    background-color: rgba(153,127,40, 1);
+    background-color: rgb(44, 102, 156);
     color: white;
 }
 #footer{
     grid-column: 1 / 4;
     padding: 15px;
-    background-color: rgba(71,109,147,1);
+    background-color: rgb(40, 207, 96);
     color: white;
 }
